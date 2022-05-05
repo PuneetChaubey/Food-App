@@ -19,3 +19,11 @@
     padding: 15px;
     color: orangered;
 }
+.box> button{
+    margin-top: 10px;
+    color:white;
+    background-color:gray;
+    padding: 10px;
+    border: 0px;
+    border-radius: 15px;
+}
