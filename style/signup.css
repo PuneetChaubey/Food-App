@@ -1,0 +1,16 @@
+#signup{
+    width:max-content;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+    margin-top: 20px;
+    padding : 50px;
+}
+#form > input,button{
+    padding: 10px 60px 10px 60px;
+    text-align: center;
+    margin: 5px;
+    font-size: 20px;
+}

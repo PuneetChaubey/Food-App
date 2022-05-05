@@ -1,0 +1,17 @@
+.box{
+    width:50%;
+    height: 500px;
+    margin: auto;
+    padding: 20px;
+  background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px;
+    color: orangered;
+}
+.box >img {
+    height :70%;
+    margin-bottom: 20px;
+}

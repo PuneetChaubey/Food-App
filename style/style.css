@@ -1,0 +1,52 @@
+body{
+    /* background-image: url("https://cutewallpaper.org/23/restaurant-wallpaper-hd/500-best-waiter-photos-%C2%B7-100-free-download-%C2%B7-pexels-stock-photos.jpeg"); */
+   background-image: url("https://st2.depositphotos.com/2691399/10583/i/950/depositphotos_105834766-stock-photo-kitchen-with-table-and-kitchenware.jpg");
+    background-size: cover;
+   background-repeat:no-repeat;
+}
+#navbar{
+    height: 80px;
+    display: flex;
+    background-color: #212121;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+   
+    
+   
+}
+#option{
+    display: flex;
+    gap:10%;
+    
+    
+}
+#home{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+#home>a,i{
+ text-decoration: none;
+ color:orange;
+ font-size: 30px;
+}
+#search{
+    width: 30%;
+}
+*{
+    margin: 0;
+}
+#option > h3 >a{
+    text-decoration: none;
+    color: white;
+}
+#search{
+    padding: 10px;
+    border-radius: 15px;
+    border: 0px;
+}

@@ -1,0 +1,45 @@
+.box0{
+    display: grid;
+   grid-template-columns: repeat(2,1fr);
+   justify-content: space-around;
+   align-items: center;
+}
+.box1{
+    
+    margin: 50px 30px;
+    background-color: rgb(131, 112, 112);
+    text-align: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    color: #ecc14b;
+}
+ img {
+    width:100%;
+   height: 400px;
+}
+
+.box3{
+    width: 95%;
+  height: 450px;
+   overflow-y: scroll;
+    padding: 10px;
+    line-height: 25px;
+  font: bold;
+  
+  background-color: rgb(131, 112, 112);
+  color: rgb(255, 255, 0);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.box2{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+#video{
+    margin: auto;
+    text-align: center;
+    width: 600px;
+     
+    background-color: rgb(131, 112, 112);
+    height: 300px;
+    color: #ecc14b;
+}

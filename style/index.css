@@ -1,0 +1,21 @@
+
+#container{
+    width:80%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 55px;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: space-evenly;
+   
+   
+}
+#container > .box{
+   background-color: white;
+    /* border: 1px solid red; */
+    text-align: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 15px;
+    color: orangered;
+}
